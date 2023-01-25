@@ -26,7 +26,7 @@ dependencies {
 	implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 	implementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor")
 	implementation("org.postgresql:postgresql:42.5.1")
-	implementation("org.postgresql:r2dbc-postgresql:0.9.3.RELEASE")
+	implementation("org.postgresql:r2dbc-postgresql:1.0.0.RELEASE")
 
 	developmentOnly("org.springframework.boot:spring-boot-devtools")
 
