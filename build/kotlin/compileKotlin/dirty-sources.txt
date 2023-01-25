@@ -1,2 +1,0 @@
-/Users/az0916/dev/misc/kotlin-spring-boot-grpc-demo/src/main/kotlin/com/zahiar/kotlin_grpc_demo/main.kt
-/Users/az0916/dev/misc/kotlin-spring-boot-grpc-demo/src/main/kotlin/com/zahiar/kotlin_grpc_demo/DemoService.kt
