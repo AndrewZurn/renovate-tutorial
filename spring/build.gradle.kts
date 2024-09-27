@@ -16,7 +16,7 @@ repositories {
 }
 
 dependencies {
-	implementation("com.google.cloud:cloud-spanner-spring-data-r2dbc:0.6.0")
+	implementation("com.google.cloud:cloud-spanner-spring-data-r2dbc:1.2.0")
 	implementation("org.springframework.boot:spring-boot-starter-webflux")
 	implementation("org.springframework.boot:spring-boot-starter-data-r2dbc")
 	implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
